@@ -6,9 +6,9 @@
 Ссылка: https://github.com/JaneMikh/ono-tebe-nado-fd
 
 ## Стек технологий
-. Flexbox
-. Grid Layout
-. Figma
-. Git
-. HTML5
-. CSS3
+* Flexbox
+* Grid Layout
+* Figma
+* Git
+* HTML5
+* CSS3
